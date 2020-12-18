@@ -1,0 +1,7 @@
+C:\Users\leonardo.silva\source\repos\provinha\provinha\bin\Debug\provinha.exe.config
+C:\Users\leonardo.silva\source\repos\provinha\provinha\bin\Debug\provinha.exe
+C:\Users\leonardo.silva\source\repos\provinha\provinha\bin\Debug\provinha.pdb
+C:\Users\leonardo.silva\source\repos\provinha\provinha\obj\Debug\provinha.csprojAssemblyReference.cache
+C:\Users\leonardo.silva\source\repos\provinha\provinha\obj\Debug\provinha.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.silva\source\repos\provinha\provinha\obj\Debug\provinha.exe
+C:\Users\leonardo.silva\source\repos\provinha\provinha\obj\Debug\provinha.pdb

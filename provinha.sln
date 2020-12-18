@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "provinha", "provinha\provinha.csproj", "{BC78C99E-5AEA-4C1B-9F7A-84A88E2F18B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC78C99E-5AEA-4C1B-9F7A-84A88E2F18B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC78C99E-5AEA-4C1B-9F7A-84A88E2F18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC78C99E-5AEA-4C1B-9F7A-84A88E2F18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC78C99E-5AEA-4C1B-9F7A-84A88E2F18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05706907-6F61-47EE-99E9-2B4578A1F622}
+	EndGlobalSection
+EndGlobal
